@@ -9,5 +9,5 @@ public class GoldScreen extends Screen implements GoldScreeninterface{
         this.setConvenienceFee(convenienceFee);
         this.setViewer(viewer);
     }
-
 }
+
